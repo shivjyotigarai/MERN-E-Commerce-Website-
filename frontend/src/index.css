@@ -1,0 +1,25 @@
+main {
+  min-height: 80vh;
+}
+h3 {
+  padding: 10px;
+}
+i {
+  padding: 2px;
+}
+.desc {
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: medium;
+}
+.pdtTitle {
+  color: white;
+  font-size: large;
+}
+a {
+  color: aliceblue;
+}
+a:hover {
+  color: rgb(15, 14, 13);
+}
