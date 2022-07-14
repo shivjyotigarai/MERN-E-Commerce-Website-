@@ -1,7 +1,7 @@
 # E Commerce Platform MERN
  A full stack e-commerce website built using the mern stack designed with Chakra-UI and React Bootstrap.
 
-## Hosted Link
+### Hosted Link
 
 > https://newbrightmernapp.herokuapp.com/
 
